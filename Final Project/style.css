@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    font-weight: 400;
+}
+body{
+    background-color: beige;
+}
+
+h3{
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 600px;
+}
+h4{
+    text-align: center;
+
+}
+#gal1{
+    
+    position: relative;
+margin-left: 900px;
+
+    
+}
+
+#gal2{
+    
+    position: relative;
+
+
+
+    
+}
+
+
+
+#img3{
+    height: 400px;
+    width: 400px;
+}
+#img4{
+    height: 400px;
+    width: 400px;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+#pic{
+    position: relative;
+    margin-left: 900px;
+}
+#pic2{
+    position: relative;
+    margin-left: 900px;
+}
+
+#spec{
+    margin-top: 500px;
+}
+
